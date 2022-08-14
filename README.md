@@ -26,4 +26,4 @@ Random Forest algorithm, as the name suggests, employs many decision trees at it
 Decision Tree predicts out a class. Then, a majority voting scheme is conducted to finally decide the 
 model's prediction.
 
-<center> ![Random Forest](https://i.imgur.com/9wneQn6.png) </center>
+![Random Forest](https://i.imgur.com/9wneQn6.png)
