@@ -27,7 +27,20 @@ Decision Tree predicts out a class. Then, a majority voting scheme is conducted 
 model's prediction.
 
 ![Random Forest](https://i.imgur.com/Xdff4tc.png)
-In the above case, there are **six** decision trees which spat out **_1_** and **three** decision trees spat out **_0_**. Upon voting, the clear winner comes out to be **_1_**.
+In the above case, in a forest of **nine** decision trees, there are **six** decision trees which spat out **_1_** and **three** decision trees spat out **_0_**. Upon voting, the clear winner comes out to be **_1_**.
+
+The random forest sometime, also employs the **bagging method** to generate the required prediction.
+Bagging involves using different samples of data (training data) rather than just one sample. A training dataset comprises observations and features that are used for making predictions. The decision trees produce different outputs, depending on the training data fed to the random forest algorithm. These outputs will be ranked, and the highest will be selected as the final output.
 
 ## Why Random Forest?
 Random Forest is known to produce highest number of accuracies among all the models. Reason? It capitalizes on the number of weak learners to give a very strong prediction. This is called as the **_"wisdom of the crowd_**.
+
+A large number of incorrect to accurately related models work together to give a very consistent model.
+Some other known advantages of this model are:
+- Never allows decision trees to overfit
+- Variable Importance measure
+- Works extremely well with large datasets
+- Imabalance data is handled pretty well 
+- Individual tree's error(s) are almost cancelled out by each other
+
+The device classification model demands a model which is ** error free to a great extent**. Typically, there will be a very **huge dataset** including many attributes.
