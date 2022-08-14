@@ -44,3 +44,20 @@ Some other known advantages of this model are:
 - Individual tree's error(s) are almost cancelled out by each other.
 
 The device classification model demands a model which is **error free to a great extent**. Typically, there will be a very **huge dataset** including many attributes.
+
+## The Code Walkthrough, Accuracy and Output
+The following steps were taken to create our own model:
+1. Data pre-processing (Label Encoding)
+2. Craft a Random Forest classifier model
+3. Train the Random Forest model
+4. Check the Accuracy
+5. Make Prediction
+
+
+The Random Forest classifier predicted with a whopping accuracy rate of 1.0 (very optimal, translates to 100%).
+
+A sample input is given to the trained model:
+![prediction](https://i.imgur.com/TowGYjN.png)
+
+Model Output:
+![output](https://i.imgur.com/pLp9K4A.png)
