@@ -20,7 +20,7 @@ from sklearn import metrics
 # read csv
 dataset = pd.read_csv('../dataset/device_specs.csv')
 
-# label encode 
+# label encode the textual values: 
 le=LabelEncoder()
 
 le_columns = ['BRAND', 'DEVICE_OUTPUT_TYPE', 'DEVICE_MAJORITY_COMPOSITION', 'SENSOR_TYPE']
@@ -43,4 +43,17 @@ clf.fit(X_train,y_train)
 y_pred=clf.predict(X_test)
 
 # Model Accuracy
-print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
+print("Accuracy:",metrics.accuracy_score(y_test, y_pred)) # a stunning accuracy of 1.0 (variable)
+
+# Testing the Model: 
+# BRAND = 'Hitachi Automotive Systems' (label encoded value = 2)
+# DEVICE LENGTH in mm = 58
+# DEVICE MAJORITY COMPOSITION = 'Ceramic' (label encoded value = 0)
+# DEVICE OUTPUT TYPE = 'Analog' (label encoded value = 0)
+
+# Output could be:
+# 'Thermal Sensor'    --- 1 (label encoded value)
+# 'Proximity Sensor'  --- 2 (label encoded value)
+# 'Ultrasonic Sensor' --- 3 (label encoded value)
+
+print(clf.predict([[2, 58, 0, 0]])) # Outputs 1 (Thermal Sensor)
