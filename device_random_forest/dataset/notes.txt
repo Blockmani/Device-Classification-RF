@@ -1,0 +1,13 @@
+################## DATASET FORMAT ###################
+
+BRAND                   DEVICE_LENGTH (in mm)          DEVICE_MAJORITY_COMPOSITION      DEVICE_OUTPUT_TYPE       SENSOR_TYPE
+Delphi Automative/      50-60                          Ceramic                          Analog/Digital           Thermal
+Hitachi Automotive Systems/
+Avago
+
+Reed Rex/               30-40                          Ferrite                          Analog                   Proximity
+Kinequip/
+
+Siemens/
+Rockwell Automation/    
+Delphi Automative       40-50                          Piezoelectric Crystals           Analog                   Ultrasonic

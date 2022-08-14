@@ -1,0 +1,181 @@
+BRAND,DEVICE_LENGTH,DEVICE_MAJORITY_COMPOSITION,DEVICE_OUTPUT_TYPE,SENSOR_TYPE
+Avago,51.467963388641856,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,58.67649076621431,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,52.16401989290016,Ceramic,Analog,Thermal
+Delphi Automative,55.51722657200418,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,50.976523769666194,Ceramic,Digital,Thermal
+Delphi Automative,59.17719486220046,Ceramic,Analog,Thermal
+Avago,55.16108952434984,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,59.097100721536954,Ceramic,Digital,Thermal
+Delphi Automative,54.08167412442925,Ceramic,Digital,Thermal
+Delphi Automative,58.327570388144,Ceramic,Analog,Thermal
+Delphi Automative,54.99356964441713,Ceramic,Analog,Thermal
+Delphi Automative,54.15661767413084,Ceramic,Analog,Thermal
+Delphi Automative,55.822830946363844,Ceramic,Digital,Thermal
+Avago,50.46579480159826,Ceramic,Analog,Thermal
+Delphi Automative,52.03076352215933,Ceramic,Digital,Thermal
+Avago,53.58366176979827,Ceramic,Digital,Thermal
+Delphi Automative,58.137695727839194,Ceramic,Analog,Thermal
+Avago,58.161219676033646,Ceramic,Digital,Thermal
+Delphi Automative,51.54496145566016,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,50.89609436691722,Ceramic,Digital,Thermal
+Avago,53.75362860904711,Ceramic,Digital,Thermal
+Delphi Automative,58.89553643032098,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,52.161182225297665,Ceramic,Analog,Thermal
+Delphi Automative,59.030189008468156,Ceramic,Analog,Thermal
+Avago,50.59382192704328,Ceramic,Digital,Thermal
+Avago,54.877271611980106,Ceramic,Digital,Thermal
+Avago,58.62426926050285,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,56.73642934151248,Ceramic,Analog,Thermal
+Delphi Automative,54.93817271244389,Ceramic,Digital,Thermal
+Avago,57.010945647841375,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,53.614017017761306,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,54.32577006603208,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,52.84799655077632,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,56.184607999404236,Ceramic,Analog,Thermal
+Avago,58.183129437251466,Ceramic,Digital,Thermal
+Delphi Automative,56.950715026887806,Ceramic,Digital,Thermal
+Avago,54.609020185129836,Ceramic,Digital,Thermal
+Delphi Automative,55.63408011817709,Ceramic,Analog,Thermal
+Avago,53.6433090871605,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,51.34134849620344,Ceramic,Digital,Thermal
+Delphi Automative,58.92134328402612,Ceramic,Digital,Thermal
+Avago,57.288408628759406,Ceramic,Analog,Thermal
+Delphi Automative,59.49667343708376,Ceramic,Digital,Thermal
+Delphi Automative,55.60671235540758,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,50.50086382728997,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,54.0524455405866,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,57.95805537016848,Ceramic,Digital,Thermal
+Delphi Automative,50.77055660069024,Ceramic,Digital,Thermal
+Avago,54.388299927604876,Ceramic,Analog,Thermal
+Avago,54.86881860984252,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,59.84426331835177,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,52.4133245974225,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,52.58430480383624,Ceramic,Digital,Thermal
+Avago,59.765792548177,Ceramic,Analog,Thermal
+Hitachi Automotive Systems,55.45576794888689,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,52.33133485254441,Ceramic,Digital,Thermal
+Hitachi Automotive Systems,55.763960853520835,Ceramic,Digital,Thermal
+Avago,57.04077504145741,Ceramic,Digital,Thermal
+Delphi Automative,52.367810572783206,Ceramic,Digital,Thermal
+Delphi Automative,59.57445944815328,Ceramic,Digital,Thermal
+Kinequip,33.9335020408315,Ferrite,Analog,Proximity
+Kinequip,35.19819121605881,Ferrite,Analog,Proximity
+Kinequip,32.37890060425843,Ferrite,Analog,Proximity
+Kinequip,37.222657532999094,Ferrite,Analog,Proximity
+Reed Rex,36.992509819716645,Ferrite,Analog,Proximity
+Reed Rex,35.1006408822237,Ferrite,Digital,Proximity
+Reed Rex,34.335248679532086,Ferrite,Digital,Proximity
+Kinequip,30.784650288973438,Ferrite,Analog,Proximity
+Kinequip,36.26652766711266,Ferrite,Digital,Proximity
+Reed Rex,37.95121428212174,Ferrite,Analog,Proximity
+Reed Rex,32.00986902023126,Ferrite,Digital,Proximity
+Kinequip,31.834260594122803,Ferrite,Digital,Proximity
+Kinequip,38.44516816597853,Ferrite,Digital,Proximity
+Kinequip,38.83292330054027,Ferrite,Analog,Proximity
+Reed Rex,35.360254713812914,Ferrite,Analog,Proximity
+Kinequip,35.03930184433186,Ferrite,Analog,Proximity
+Reed Rex,36.403584611303486,Ferrite,Analog,Proximity
+Reed Rex,30.75827874179882,Ferrite,Digital,Proximity
+Reed Rex,30.21531793629488,Ferrite,Analog,Proximity
+Reed Rex,36.943327881574916,Ferrite,Digital,Proximity
+Kinequip,35.70413482180069,Ferrite,Analog,Proximity
+Kinequip,33.698786904346264,Ferrite,Digital,Proximity
+Kinequip,34.95412275022396,Ferrite,Analog,Proximity
+Kinequip,38.78380306816957,Ferrite,Digital,Proximity
+Reed Rex,33.92415853213894,Ferrite,Analog,Proximity
+Reed Rex,30.407186991046586,Ferrite,Analog,Proximity
+Kinequip,32.16823762137439,Ferrite,Analog,Proximity
+Reed Rex,35.91741441266305,Ferrite,Analog,Proximity
+Kinequip,33.08164527838371,Ferrite,Analog,Proximity
+Kinequip,33.12899603897254,Ferrite,Digital,Proximity
+Kinequip,34.40011721863779,Ferrite,Analog,Proximity
+Kinequip,34.90482133220431,Ferrite,Analog,Proximity
+Reed Rex,35.00520298475127,Ferrite,Analog,Proximity
+Kinequip,39.30275147360898,Ferrite,Digital,Proximity
+Kinequip,38.28137235025873,Ferrite,Digital,Proximity
+Kinequip,34.931211155222954,Ferrite,Digital,Proximity
+Kinequip,32.00429346720083,Ferrite,Digital,Proximity
+Kinequip,34.10115938233524,Ferrite,Analog,Proximity
+Reed Rex,36.10870555697495,Ferrite,Analog,Proximity
+Reed Rex,39.78747644022982,Ferrite,Digital,Proximity
+Reed Rex,30.9951702268977,Ferrite,Digital,Proximity
+Reed Rex,39.71345851122679,Ferrite,Analog,Proximity
+Kinequip,31.052108765403744,Ferrite,Analog,Proximity
+Reed Rex,33.64236641156771,Ferrite,Digital,Proximity
+Reed Rex,39.1847759984867,Ferrite,Analog,Proximity
+Reed Rex,35.39802156884192,Ferrite,Analog,Proximity
+Reed Rex,38.55305597682717,Ferrite,Digital,Proximity
+Reed Rex,38.45765014415415,Ferrite,Analog,Proximity
+Reed Rex,31.127654097618127,Ferrite,Digital,Proximity
+Reed Rex,34.992169366628936,Ferrite,Analog,Proximity
+Kinequip,37.168219438006766,Ferrite,Analog,Proximity
+Kinequip,30.50600443116456,Ferrite,Analog,Proximity
+Kinequip,37.70995113314354,Ferrite,Digital,Proximity
+Kinequip,39.15219997991385,Ferrite,Analog,Proximity
+Reed Rex,35.22239313586438,Ferrite,Analog,Proximity
+Reed Rex,33.83109167507193,Ferrite,Digital,Proximity
+Reed Rex,34.36079660841734,Ferrite,Digital,Proximity
+Reed Rex,37.28536387152062,Ferrite,Digital,Proximity
+Reed Rex,39.83772806958416,Ferrite,Analog,Proximity
+Reed Rex,31.400968395553754,Ferrite,Digital,Proximity
+Rockwell Automation,43.24212967948296,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,43.89550091080876,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,43.796054694043086,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,47.76259524862127,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,48.58884484625713,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,41.46146392696459,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,46.86175760701159,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,43.163885161593896,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,46.22444214235831,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,42.61789284528929,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,43.80366587609825,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,41.16312829915967,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,40.77924743754825,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,47.38552754022103,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,41.012970880169135,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,47.6604263023567,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,44.28328311491321,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,42.57947693141004,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,42.2213559301885,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,40.28994817314653,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,49.053881603368616,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,48.867180612048,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,48.92734263494678,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,42.87516179852388,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,47.35483189202188,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,48.96354768979947,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,42.80236484884711,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,41.20710777378254,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,46.09734441671584,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,48.79767357071502,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,47.64487799987184,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,44.16144616846556,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,46.42979167365823,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,45.849287510722114,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,49.54812716745536,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,44.57762769954364,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,45.18563377499173,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,48.68019425451269,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,41.2950055566438,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,41.18834113328621,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,48.821799055265316,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,40.87192833436553,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,49.43167988125898,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,46.74863538661998,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,40.534117932348664,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,45.08961957117054,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,41.541238182770165,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,40.656032994812485,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,48.579557195786286,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,45.585144643884476,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,48.95934973396159,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,49.39674469776209,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,40.07264945369501,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,49.69557009969566,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,48.565190715884555,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,47.74781113422323,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,40.340568049266835,Piezoelectric Crystals,Analog,Ultrasonic
+Delphi Automative,43.56922032128038,Piezoelectric Crystals,Analog,Ultrasonic
+Rockwell Automation,43.09469470788302,Piezoelectric Crystals,Analog,Ultrasonic
+Siemens,48.49255025744155,Piezoelectric Crystals,Analog,Ultrasonic
