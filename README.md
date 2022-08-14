@@ -43,4 +43,4 @@ Some other known advantages of this model are:
 - Imabalance data is handled pretty well 
 - Individual tree's error(s) are almost cancelled out by each other
 
-The device classification model demands a model which is ** error free to a great extent**. Typically, there will be a very **huge dataset** including many attributes.
+The device classification model demands a model which is **error free to a great extent**. Typically, there will be a very **huge dataset** including many attributes.
