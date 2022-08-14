@@ -27,3 +27,4 @@ Decision Tree predicts out a class. Then, a majority voting scheme is conducted 
 model's prediction.
 
 ![Random Forest](https://i.imgur.com/Xdff4tc.png)
+<center> <b>Predicts 1</b> </center>
