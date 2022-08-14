@@ -10,7 +10,7 @@ But, for this task, we need a robust, dynamic and an algorithm which can work re
 with large datasets and variations. These algorithmic requirements lands us right on top of
 one well-known machine learning algorithm called, **_Random Forest_**
 
-## What is Random Forest? Why Random Forest?
+## What is Random Forest?
 Random Forest is an advanced algorithmic upgrade of an existing supervised model called, **_Decision Trees_**. It is considered one of the most precise machine learning models created so far for
 supervised classification purposes.
 
@@ -28,3 +28,6 @@ model's prediction.
 
 ![Random Forest](https://i.imgur.com/Xdff4tc.png)
 In the above case, there are **six** decision trees which spat out **_1_** and **three** decision trees spat out **_0_**. Upon voting, the clear winner comes out to be **_1_**.
+
+## Why Random Forest?
+Random Forest is known to produce highest number of accuracies among all the models. Reason? It capitalizes on the number of weak learners to give a very strong prediction. This is called as the **_"wisdom of the crowd_**.
